@@ -13,12 +13,12 @@ This project is a simple command-line interface (CLI) based quiz game implemente
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/cli-quiz-game.git
+    git clone https://github.com/KristiantoJohan/Quiz-Game.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd cli-quiz-game
+    cd Quiz-Game
     ```
 
 3. Compile the code:
